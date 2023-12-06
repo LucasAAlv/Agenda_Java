@@ -1,6 +1,6 @@
 # AgendaJava
 
-![preview](preview.png)
+![preview](./preview.png)
 
 > 🧾 Projeto Agenda   
 
