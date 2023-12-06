@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Agenda</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="contact_info">Insert the contact data</string>
+    <string name="add_contact">Add Contact</string>
+    <string name="attention">Attention</string>
+    <string name="empty_contact_alert_msg">The data will not be saved.</string>
+    <string name="remove_contact">Contact removed</string>
+    <string name="undo">Undo</string>
+    <string name="login_title">Login</string>
+    <string name="password">password</string>
+    <string name="username">name</string>
+    <string name="login">Login</string>
+    <string name="login_button">Login_Button</string>
+    <string name="contatos">Contacts</string>
+</resources>
